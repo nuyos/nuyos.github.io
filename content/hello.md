@@ -1,6 +1,6 @@
 Title: 뇨스의 개발 일기장
 Date: 2025-09-11
-Category: 블로그
+Category: blog
 Tags: pelican, python
 Slug: hello-world
 
